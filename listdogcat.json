@@ -46,5 +46,21 @@
     "https://github.com/ConfigNeko/DogJoke/raw/main/sound/song_10.mp3",
     "https://github.com/ConfigNeko/DogJoke/raw/main/sound/song_11.mp3",
     "https://github.com/ConfigNeko/DogJoke/raw/main/sound/song_12.mp3"
+  ],
+  "challange_sound": [
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_1.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_2.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_3.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_4.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_5.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_6.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_7.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_8.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_9.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_10.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_11.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_12.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_13.mp3",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_14.mp3"
   ]
 }

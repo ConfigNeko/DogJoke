@@ -63,7 +63,7 @@
     "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_13.mp3",
     "https://github.com/ConfigNeko/DogJoke/raw/main/Challenge_sound/challenge_14.mp3"
   ],
- "video_training": [
+  "video_training": [
     "https://github.com/ConfigNeko/DogJoke/raw/main/video_trending/clap_1.mp4",
     "https://github.com/ConfigNeko/DogJoke/raw/main/video_trending/clap_2.mp4",
     "https://github.com/ConfigNeko/DogJoke/raw/main/video_trending/fish.mp4",
@@ -100,5 +100,9 @@
     "https://github.com/ConfigNeko/DogJoke/raw/main/video_trending/yoga_3.mp4",
     "https://github.com/ConfigNeko/DogJoke/raw/main/video_trending/yoga_4.mp4",
     "https://github.com/ConfigNeko/DogJoke/raw/main/video_trending/yoga_5.mp4"
+  ],
+  "lesson": [
+    "https://github.com/ConfigNeko/DogJoke/raw/main/lesson/lesson_1.mp4",
+    "https://github.com/ConfigNeko/DogJoke/raw/main/lesson/lesson_2.mp4"
   ]
 }
